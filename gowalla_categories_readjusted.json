@@ -1,0 +1,2714 @@
+[
+  {
+    "name": "Residence",
+    "url": "/categories/2",
+    "level": 1,
+    "spots_categories_amount": 2,
+    "spots_categories": [
+      {
+        "name": "Home",
+        "url": "/categories/21",
+        "level": 2,
+        "spots_categories_amount": 6,
+        "spots_categories": [
+          {
+            "name": "Apartment",
+            "url": "/categories/20",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Condo",
+            "url": "/categories/29",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Craftsman",
+            "url": "/categories/89",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Duplex",
+            "url": "/categories/87",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Modern",
+            "url": "/categories/90",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Victorian",
+            "url": "/categories/88",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Hotel",
+        "url": "/categories/199",
+        "level": 2,
+        "spots_categories_amount": 6,
+        "spots_categories": [
+          {
+            "name": "Antique Hotel",
+            "url": "/categories/43",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Bed & Breakfast",
+            "url": "/categories/92",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Hostel",
+            "url": "/categories/93",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Luxury Hotel",
+            "url": "/categories/49",
+            "level": 3,
+            "spots_categories_amount": 8,
+            "spots_categories": [
+              {
+                "name": "Hotel Indigo",
+                "url": "/categories/378",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "Holiday Inn",
+                "url": "/categories/379",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "Holiday Inn Express",
+                "url": "/categories/380",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "Candlewood Suites",
+                "url": "/categories/384",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "Crowne Plaza",
+                "url": "/categories/388",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "InterContinental Hotel",
+                "url": "/categories/389",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "Four Seasons",
+                "url": "/categories/407",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "Staybridge Suites",
+                "url": "/categories/383",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              }
+            ]
+          },
+          {
+            "name": "Modern Hotel",
+            "url": "/categories/47",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Motel",
+            "url": "/categories/44",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Community",
+    "url": "/categories/934",
+    "level": 1,
+    "spots_categories_amount": 6,
+    "spots_categories": [
+      {
+        "name": "Campus Spot",
+        "url": "/categories/133",
+        "level": 2,
+        "spots_categories_amount": 10,
+        "spots_categories": [
+          {
+            "name": "Administration",
+            "url": "/categories/135",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Campus Commons",
+            "url": "/categories/138",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Campus - Other",
+            "url": "/categories/153",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Dormitory",
+            "url": "/categories/139",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Frat House",
+            "url": "/categories/140",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Hall",
+            "url": "/categories/141",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Lab",
+            "url": "/categories/142",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Rec Center",
+            "url": "/categories/143",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Sorority House",
+            "url": "/categories/144",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Student Center",
+            "url": "/categories/145",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Government",
+        "url": "/categories/218",
+        "level": 2,
+        "spots_categories_amount": 7,
+        "spots_categories": [
+          {
+            "name": "City Hall",
+            "url": "/categories/125",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Courthouse",
+            "url": "/categories/126",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Fire Station",
+            "url": "/categories/182",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Police Station",
+            "url": "/categories/183",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Post Office",
+            "url": "/categories/235",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Town Hall",
+            "url": "/categories/402",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Polling Place",
+            "url": "/categories/423",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Library",
+        "url": "/categories/102",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Office",
+        "url": "/categories/936",
+        "level": 2,
+        "spots_categories_amount": 6,
+        "spots_categories": [
+          {
+            "name": "Corporate Office",
+            "url": "/categories/121",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Coworking",
+            "url": "/categories/939",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Non-Profit",
+            "url": "/categories/938",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Skyscraper",
+            "url": "/categories/23",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Startup",
+            "url": "/categories/937",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Warehouse & Industrial",
+            "url": "/categories/170",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Place of Worship",
+        "url": "/categories/205",
+        "level": 2,
+        "spots_categories_amount": 8,
+        "spots_categories": [
+          {
+            "name": "Church",
+            "url": "/categories/65",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Contemporary Church",
+            "url": "/categories/68",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Historic Church",
+            "url": "/categories/22",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Mission",
+            "url": "/categories/69",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Mosque",
+            "url": "/categories/70",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Other - Place of Worship",
+            "url": "/categories/208",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Synagogue",
+            "url": "/categories/71",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Temple",
+            "url": "/categories/184",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "School",
+        "url": "/categories/127",
+        "level": 2,
+        "spots_categories_amount": 7,
+        "spots_categories": [
+          {
+            "name": "College",
+            "url": "/categories/149",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "High School",
+            "url": "/categories/152",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Law School",
+            "url": "/categories/147",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Medical School",
+            "url": "/categories/148",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "School - Other",
+            "url": "/categories/940",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Trade/Tech School",
+            "url": "/categories/151",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "University",
+            "url": "/categories/134",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Event",
+        "url": "/categories/1001",
+        "level": 2,
+        "spots_categories_amount": 16,
+        "spots_categories": [
+          {
+            "name": "Conference",
+            "url": "/categories/232",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Special Event",
+            "url": "/categories/234",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Cause",
+            "url": "/categories/371",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Meet Up",
+            "url": "/categories/373",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Democratic Event",
+            "url": "/categories/397",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Republican Event",
+            "url": "/categories/398",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Independent Event",
+            "url": "/categories/399",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Political Rally",
+            "url": "/categories/400",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Protest",
+            "url": "/categories/401",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Charlie Crist for U.S. Senate",
+            "url": "/categories/404",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "National Public Lands Day",
+            "url": "/categories/410",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Volunteering & Service",
+            "url": "/categories/411",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "LIVESTRONG Day",
+            "url": "/categories/421",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Social Media Week",
+            "url": "/categories/472",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "World Water Day",
+            "url": "/categories/869",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Holiday Festivities",
+            "url": "/categories/372",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Entertainment",
+    "url": "/categories/12",
+    "level": 1,
+    "spots_categories_amount": 30,
+    "spots_categories": [
+      {
+        "name": "Aquarium",
+        "url": "/categories/76",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Arcade",
+        "url": "/categories/74",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Arena or Stadium",
+        "url": "/categories/928",
+        "level": 2,
+        "spots_categories_amount": 4,
+        "spots_categories": [
+          {
+            "name": "Arena",
+            "url": "/categories/662",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Baseball Stadium",
+            "url": "/categories/929",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Soccer Stadium",
+            "url": "/categories/390",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Stadium",
+            "url": "/categories/79",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Art",
+        "url": "/categories/935",
+        "level": 2,
+        "spots_categories_amount": 6,
+        "spots_categories": [
+          {
+            "name": "Asian Art Museum",
+            "url": "/categories/72",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Gallery",
+            "url": "/categories/188",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Modern Art Museum",
+            "url": "/categories/52",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Sculpture",
+            "url": "/categories/51",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Traditional Art Museum",
+            "url": "/categories/50",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Exhibit",
+            "url": "/categories/369",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Art & Culture",
+        "url": "/categories/136",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Bowling",
+        "url": "/categories/215",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Casino",
+        "url": "/categories/77",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Convention Center",
+        "url": "/categories/243",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Disc Golf Course",
+        "url": "/categories/393",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Golf Course",
+        "url": "/categories/42",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Ice Skating",
+        "url": "/categories/663",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Live Music",
+        "url": "/categories/32",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Local Sports",
+        "url": "/categories/930",
+        "level": 2,
+        "spots_categories_amount": 6,
+        "spots_categories": [
+          {
+            "name": "Baseball Field",
+            "url": "/categories/933",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Basketball Court",
+            "url": "/categories/223",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Football Field",
+            "url": "/categories/932",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Soccer Field",
+            "url": "/categories/391",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Tennis Court",
+            "url": "/categories/931",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Sports",
+            "url": "/categories/374",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Movie Theatre",
+        "url": "/categories/30",
+        "level": 2,
+        "spots_categories_amount": 2,
+        "spots_categories": [
+          {
+            "name": "AMC Theatre",
+            "url": "/categories/462",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Cinemark Theatre",
+            "url": "/categories/463",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Museum",
+        "url": "/categories/207",
+        "level": 2,
+        "spots_categories_amount": 3,
+        "spots_categories": [
+          {
+            "name": "History Museum",
+            "url": "/categories/73",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Planetarium",
+            "url": "/categories/213",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Science Museum",
+            "url": "/categories/212",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Other - Entertainment",
+        "url": "/categories/58",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Performing Arts",
+        "url": "/categories/31",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Racetrack",
+        "url": "/categories/78",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Skatepark",
+        "url": "/categories/211",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Theatre",
+        "url": "/categories/103",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Theme Park",
+        "url": "/categories/75",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Zoo",
+        "url": "/categories/33",
+        "level": 2,
+        "spots_categories_amount": 11,
+        "spots_categories": [
+          {
+            "name": "Aviary",
+            "url": "/categories/349",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Bears",
+            "url": "/categories/350",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Elephants",
+            "url": "/categories/351",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Giraffes",
+            "url": "/categories/352",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Hippos",
+            "url": "/categories/353",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Lions",
+            "url": "/categories/354",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Other - Zoo",
+            "url": "/categories/359",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Primates",
+            "url": "/categories/356",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Reptiles",
+            "url": "/categories/355",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Tigers",
+            "url": "/categories/357",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Zebras",
+            "url": "/categories/358",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Concert",
+        "url": "/categories/387",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Other - Art & Culture",
+        "url": "/categories/59",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Fitness Room",
+        "url": "/categories/1003",
+        "level": 2,
+        "spots_categories_amount": 2,
+        "spots_categories": [
+          {
+            "name": "24 Hour Fitness",
+            "url": "/categories/448",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Life Time Fitness",
+            "url": "/categories/447",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Movie Spot",
+        "url": "/categories/244",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Party",
+        "url": "/categories/370",
+        "level": 2,
+        "spots_categories_amount": 3,
+        "spots_categories": [
+          {
+            "name": "Wedding",
+            "url": "/categories/366",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Birthday Party",
+            "url": "/categories/367",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Watch Party",
+            "url": "/categories/368",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Aquatics",
+        "url": "/categories/137",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Nightlife",
+        "url": "/categories/4",
+        "level": 2,
+        "spots_categories_amount": 11,
+        "spots_categories": [
+          {
+            "name": "Bar",
+            "url": "/categories/241",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Dancefloor",
+            "url": "/categories/25",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Dive Bar",
+            "url": "/categories/28",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Karaoke",
+            "url": "/categories/177",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Microbrewery",
+            "url": "/categories/167",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Other - Nightlife ",
+            "url": "/categories/56",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Pub",
+            "url": "/categories/24",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Saloon",
+            "url": "/categories/97",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Sports Bar",
+            "url": "/categories/130",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Ultra-lounge",
+            "url": "/categories/26",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Wine Bar",
+            "url": "/categories/27",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Resort",
+        "url": "/categories/48",
+        "level": 2,
+        "spots_categories_amount": 1,
+        "spots_categories": [
+          {
+            "name": "Disneyland Resort",
+            "url": "/categories/425",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Food",
+    "url": "/categories/7",
+    "level": 1,
+    "spots_categories_amount": 31,
+    "spots_categories": [
+      {
+        "name": "African",
+        "url": "/categories/84",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "American",
+        "url": "/categories/16",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Asian",
+        "url": "/categories/925",
+        "level": 2,
+        "spots_categories_amount": 5,
+        "spots_categories": [
+          {
+            "name": "Asian Food",
+            "url": "/categories/18",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Pan Pacific",
+            "url": "/categories/85",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Sushi",
+            "url": "/categories/159",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Thai",
+            "url": "/categories/926",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Vietnamese",
+            "url": "/categories/927",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Bakery",
+        "url": "/categories/110",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "BBQ",
+        "url": "/categories/17",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Breakfast",
+        "url": "/categories/123",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Burgers",
+        "url": "/categories/154",
+        "level": 2,
+        "spots_categories_amount": 5,
+        "spots_categories": [
+          {
+            "name": "McDonald's",
+            "url": "/categories/436",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Sonic",
+            "url": "/categories/456",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Burger King",
+            "url": "/categories/457",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Five Guys Burgers and Fries",
+            "url": "/categories/907",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "In-N-Out Burger",
+            "url": "/categories/444",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Coffee Shop",
+        "url": "/categories/1",
+        "level": 2,
+        "spots_categories_amount": 6,
+        "spots_categories": [
+          {
+            "name": "Starbucks",
+            "url": "/categories/433",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Peet's Coffee",
+            "url": "/categories/439",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Seattle's Best",
+            "url": "/categories/441",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Dunkin' Donuts",
+            "url": "/categories/449",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Tim Hortons",
+            "url": "/categories/868",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Coffee Bean and Tea Leaf",
+            "url": "/categories/440",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Dessert",
+        "url": "/categories/80",
+        "level": 2,
+        "spots_categories_amount": 5,
+        "spots_categories": [
+          {
+            "name": "Ice Cream",
+            "url": "/categories/909",
+            "level": 3,
+            "spots_categories_amount": 2,
+            "spots_categories": [
+              {
+                "name": "Ben & Jerry's",
+                "url": "/categories/902",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "Dairy Queen",
+                "url": "/categories/905",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              }
+            ]
+          },
+          {
+            "name": "Candy Store",
+            "url": "/categories/180",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Chocolate",
+            "url": "/categories/908",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Frozen Yogurt",
+            "url": "/categories/913",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Snow Cones",
+            "url": "/categories/912",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Diner",
+        "url": "/categories/124",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Doughnuts",
+        "url": "/categories/361",
+        "level": 2,
+        "spots_categories_amount": 1,
+        "spots_categories": [
+          {
+            "name": "Krispy Kreme",
+            "url": "/categories/455",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Fine Dining",
+        "url": "/categories/236",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Fish & Chips",
+        "url": "/categories/412",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "French",
+        "url": "/categories/82",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Indian",
+        "url": "/categories/160",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Italian",
+        "url": "/categories/19",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Mediterranean",
+        "url": "/categories/98",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Mexican",
+        "url": "/categories/15",
+        "level": 2,
+        "spots_categories_amount": 1,
+        "spots_categories": [
+          {
+            "name": "Chipotle",
+            "url": "/categories/363",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Middle Eastern",
+        "url": "/categories/83",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Other - Food ",
+        "url": "/categories/64",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Pizza",
+        "url": "/categories/155",
+        "level": 2,
+        "spots_categories_amount": 1,
+        "spots_categories": [
+          {
+            "name": "Mellow Mushroom",
+            "url": "/categories/467",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Sandwich Shop",
+        "url": "/categories/101",
+        "level": 2,
+        "spots_categories_amount": 3,
+        "spots_categories": [
+          {
+            "name": "Subway",
+            "url": "/categories/454",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Potbelly",
+            "url": "/categories/461",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Chick-fil-A",
+            "url": "/categories/903",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Seafood",
+        "url": "/categories/86",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Soul Food",
+        "url": "/categories/237",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "South American/Latin",
+        "url": "/categories/81",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Steakhouse",
+        "url": "/categories/100",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Street Fare",
+        "url": "/categories/178",
+        "level": 2,
+        "spots_categories_amount": 4,
+        "spots_categories": [
+          {
+            "name": "Hot Dogs & Sausages",
+            "url": "/categories/187",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Other - Street Fare",
+            "url": "/categories/204",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Snow Cones",
+            "url": "/categories/912",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Tacos",
+            "url": "/categories/189",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Tea Room",
+        "url": "/categories/171",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Vegetarian",
+        "url": "/categories/161",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Vineyard",
+        "url": "/categories/157",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Wings",
+        "url": "/categories/67",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      }
+    ]
+  },
+
+  {
+    "name": "Outdoors",
+    "url": "/categories/5",
+    "level": 1,
+    "spots_categories_amount": 21,
+    "spots_categories": [
+      {
+        "name": "Architecture",
+        "url": "/categories/13",
+        "level": 2,
+        "spots_categories_amount": 6,
+        "spots_categories": [
+          {
+            "name": "Castle",
+            "url": "/categories/185",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Historic Landmark",
+            "url": "/categories/166",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Lighthouse",
+            "url": "/categories/216",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Monument",
+            "url": "/categories/63",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Other - Architecture",
+            "url": "/categories/60",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Tower",
+            "url": "/categories/146",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Beach",
+        "url": "/categories/99",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Canal",
+        "url": "/categories/176",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Cave",
+        "url": "/categories/181",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Cemetery",
+        "url": "/categories/162",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Dog Park",
+        "url": "/categories/364",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Farm",
+        "url": "/categories/209",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Fountain",
+        "url": "/categories/150",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Garden",
+        "url": "/categories/214",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Lake/River",
+        "url": "/categories/115",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Park",
+        "url": "/categories/942",
+        "level": 2,
+        "spots_categories_amount": 6,
+        "spots_categories": [
+          {
+            "name": "Campground",
+            "url": "/categories/111",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "City Park",
+            "url": "/categories/38",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "National Park",
+            "url": "/categories/41",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Park - Other",
+            "url": "/categories/55",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Regional/State Park",
+            "url": "/categories/39",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Trailhead",
+            "url": "/categories/941",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Pavilion",
+        "url": "/categories/116",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Playground",
+        "url": "/categories/37",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Plaza/Square",
+        "url": "/categories/165",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Pool",
+        "url": "/categories/386",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Scenic Lookout",
+        "url": "/categories/105",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Ski & Snowboard Area",
+        "url": "/categories/131",
+        "level": 2,
+        "spots_categories_amount": 7,
+        "spots_categories": [
+          {
+            "name": "Chalet",
+            "url": "/categories/197",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Glade",
+            "url": "/categories/194",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Gondola",
+            "url": "/categories/219",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Halfpipe",
+            "url": "/categories/198",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Lifthouse",
+            "url": "/categories/196",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Summit",
+            "url": "/categories/220",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Terrain Park",
+            "url": "/categories/195",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Vineyard",
+        "url": "/categories/157",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Big Blue Wet Thing",
+        "url": "/categories/113",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Lake & Pond",
+        "url": "/categories/114",
+        "level": 2,
+        "spots_categories_amount": 7,
+        "spots_categories": [
+          {
+            "name": "Chalet",
+            "url": "/categories/197",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Glade",
+            "url": "/categories/194",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Gondola",
+            "url": "/categories/219",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Halfpipe",
+            "url": "/categories/198",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Lifthouse",
+            "url": "/categories/196",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Summit",
+            "url": "/categories/220",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Terrain Park",
+            "url": "/categories/195",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Nature Preserve",
+        "url": "/categories/40",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      }
+    ]
+  },
+  {
+    "name": "Shopping",
+    "url": "/categories/6",
+    "level": 1,
+    "spots_categories_amount": 35,
+    "spots_categories": [
+      {
+        "name": "Antiques",
+        "url": "/categories/91",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Apparel",
+        "url": "/categories/35",
+        "level": 2,
+        "spots_categories_amount": 6,
+        "spots_categories": [
+          {
+            "name": "Accessories",
+            "url": "/categories/239",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Shoes",
+            "url": "/categories/240",
+            "level": 3,
+            "spots_categories_amount": 1,
+            "spots_categories": [
+              {
+                "name": "Nike",
+                "url": "/categories/394",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              }
+            ]
+          },
+          {
+            "name": "Children's Apparel",
+            "url": "/categories/238",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Men's Apparel",
+            "url": "/categories/221",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Women's Apparel",
+            "url": "/categories/222",
+            "level": 3,
+            "spots_categories_amount": 1,
+            "spots_categories": [
+              {
+                "name": "Victoria's Secret",
+                "url": "/categories/451",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              }
+            ]
+          },
+          {
+            "name": "Other - Apparel",
+            "url": "/categories/1004",
+            "level": 3,
+            "spots_categories_amount": 7,
+            "spots_categories": [
+              {
+                "name": "American Apparel",
+                "url": "/categories/450",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "Old Navy",
+                "url": "/categories/452",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "Banana Republic",
+                "url": "/categories/453",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "H&M",
+                "url": "/categories/465",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "lululemon",
+                "url": "/categories/466",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "Gap",
+                "url": "/categories/473",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              },
+              {
+                "name": "Urban Outfitters",
+                "url": "/categories/474",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bank & Financial",
+        "url": "/categories/186",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Bookstore",
+        "url": "/categories/96",
+        "level": 2,
+        "spots_categories_amount": 1,
+        "spots_categories": [
+          {
+            "name": "Barnes & Noble",
+            "url": "/categories/460",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Crafts & Creative",
+        "url": "/categories/420",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Department Store",
+        "url": "/categories/661",
+        "level": 2,
+        "spots_categories_amount": 5,
+        "spots_categories": [
+          {
+            "name": "IKEA",
+            "url": "/categories/434",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Target",
+            "url": "/categories/438",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Walmart",
+            "url": "/categories/446",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Nordstrom",
+            "url": "/categories/459",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Costco",
+            "url": "/categories/904",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Discount Store",
+        "url": "/categories/202",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Drugstore & Pharmacy",
+        "url": "/categories/201",
+        "level": 2,
+        "spots_categories_amount": 1,
+        "spots_categories": [
+          {
+            "name": "Walgreens",
+            "url": "/categories/464",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Farmers Market",
+        "url": "/categories/917",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Flower Shop",
+        "url": "/categories/229",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Furniture",
+        "url": "/categories/53",
+        "level": 2,
+        "spots_categories_amount": 3,
+        "spots_categories": [
+          {
+            "name": "Lowe's",
+            "url": "/categories/442",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "The Home Depot",
+            "url": "/categories/443",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Design Within Reach",
+            "url": "/categories/920",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Gas & Automotive",
+        "url": "/categories/119",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Grocery",
+        "url": "/categories/106",
+        "level": 2,
+        "spots_categories_amount": 2,
+        "spots_categories": [
+          {
+            "name": "Whole Foods",
+            "url": "/categories/422",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Trader Joe's",
+            "url": "/categories/437",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Gym",
+        "url": "/categories/360",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Hardware Store",
+        "url": "/categories/200",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Health & Fitness",
+        "url": "/categories/118",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Mall",
+        "url": "/categories/11",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Medical",
+        "url": "/categories/191",
+        "level": 2,
+        "spots_categories_amount": 5,
+        "spots_categories": [
+          {
+            "name": "Dentist",
+            "url": "/categories/190",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Doctor's Office",
+            "url": "/categories/192",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Drugstore & Pharmacy",
+            "url": "/categories/201",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Hospital",
+            "url": "/categories/132",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Other - Medical",
+            "url": "/categories/210",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Movie Rental",
+        "url": "/categories/242",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Music",
+        "url": "/categories/911",
+        "level": 2,
+        "spots_categories_amount": 1,
+        "spots_categories": [
+          {
+            "name": "Music",
+            "url": "/categories/112",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Other - Services",
+        "url": "/categories/217",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Other - Shopping",
+        "url": "/categories/54",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Paper Goods",
+        "url": "/categories/163",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Pet Store",
+        "url": "/categories/173",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Record Store",
+        "url": "/categories/193",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Salon & Barbershop",
+        "url": "/categories/117",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Sports & Outdoors",
+        "url": "/categories/61",
+        "level": 2,
+        "spots_categories_amount": 7,
+        "spots_categories": [
+          {
+            "name": "Bike Shop",
+            "url": "/categories/392",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Camping & Outdoors",
+            "url": "/categories/416",
+            "level": 3,
+            "spots_categories_amount": 1,
+            "spots_categories": [
+              {
+                "name": "REI",
+                "url": "/categories/435",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              }
+            ]
+          },
+          {
+            "name": "Golf Shop",
+            "url": "/categories/414",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Other Sports",
+            "url": "/categories/413",
+            "level": 3,
+            "spots_categories_amount": 1,
+            "spots_categories": [
+              {
+                "name": "RUGBY",
+                "url": "/categories/408",
+                "level": 4,
+                "spots_categories_amount": 0,
+                "spots_categories": []
+              }
+            ]
+          },
+          {
+            "name": "Running",
+            "url": "/categories/418",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Skate Shop",
+            "url": "/categories/417",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Ski Shop",
+            "url": "/categories/415",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Tattoo Parlor",
+        "url": "/categories/347",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Technology",
+        "url": "/categories/36",
+        "level": 2,
+        "spots_categories_amount": 6,
+        "spots_categories": [
+          {
+            "name": "Apple Store",
+            "url": "/categories/230",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "AT&T",
+            "url": "/categories/406",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Sprint",
+            "url": "/categories/426",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Best Buy",
+            "url": "/categories/458",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Verizon",
+            "url": "/categories/468",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "T-Mobile",
+            "url": "/categories/469",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Thrift Store",
+        "url": "/categories/34",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Tobacco & Cigars",
+        "url": "/categories/109",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Toys & Games",
+        "url": "/categories/62",
+        "level": 2,
+        "spots_categories_amount": 1,
+        "spots_categories": [
+          {
+            "name": "LEGO Store",
+            "url": "/categories/445",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Veterinarian",
+        "url": "/categories/365",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Wine & Spirits",
+        "url": "/categories/362",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Delivery",
+        "url": "/categories/1002",
+        "level": 2,
+        "spots_categories_amount": 2,
+        "spots_categories": [
+          {
+            "name": "FedEx Office",
+            "url": "/categories/470",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "UPS",
+            "url": "/categories/471",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Travel",
+    "url": "/categories/3",
+    "level": 1,
+    "spots_categories_amount": 9,
+    "spots_categories": [
+      {
+        "name": "Airport",
+        "url": "/categories/45",
+        "level": 2,
+        "spots_categories_amount": 4,
+        "spots_categories": [
+          {
+            "name": "Terminal",
+            "url": "/categories/224",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Tram",
+            "url": "/categories/226",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Gate",
+            "url": "/categories/225",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          },
+          {
+            "name": "Other - Airport",
+            "url": "/categories/228",
+            "level": 3,
+            "spots_categories_amount": 0,
+            "spots_categories": []
+          }
+        ]
+      },
+      {
+        "name": "Bridge",
+        "url": "/categories/128",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Bus Station",
+        "url": "/categories/46",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Ferry",
+        "url": "/categories/172",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Light Rail",
+        "url": "/categories/94",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Rental Car",
+        "url": "/categories/227",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Subway",
+        "url": "/categories/164",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Train Station",
+        "url": "/categories/95",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      },
+      {
+        "name": "Travel-Other",
+        "url": "/categories/57",
+        "level": 2,
+        "spots_categories_amount": 0,
+        "spots_categories": []
+      }
+    ]
+  }
+]
