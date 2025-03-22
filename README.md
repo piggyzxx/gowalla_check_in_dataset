@@ -1,7 +1,8 @@
-# temporal_activity_motifs_dataset
+# gowalla_check_in_dataset
 This is the Gowalla check-in dataset used in our paper "Discovering activity transition patterns in check-in data through temporal activity motifs".
 
-File Gowalla_checkins_New York-Newark-Jersey City, NY-NJ-PA.csv (unzipped from the zip file with the same name) contains check-ins with 6 columns, which are:
+File Gowalla_checkins_New York-Newark-Jersey City, NY-NJ-PA.csv (unzipped from the zip file with the same name) contains check-in data for the New York-Newark-Jersey City, NY-NJ-PA Metropolitan Statistical Area from March 2009 to July 2011.
+There are 6 columns, which are:
 
   1. userid (anonymized)
   2. placeid (ID of check-in POI)
